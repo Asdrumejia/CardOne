@@ -1,5 +1,8 @@
 # Nota
-Este es mi primer repoisitorio en GitHub
+Este es mi primer repositorio en GitHub
+
+# Autor
+Asdrúbal Mejía López
 
 
 
